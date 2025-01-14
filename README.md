@@ -2,7 +2,7 @@
 
 ## neovim
 
-**Plugins:** lazy, treesitter, telescope
+**Plugins:** lazy, treesitter, telescope, neotree, lualine
 
 **Colorscheme:** kanagawa, catppuccin 
 
