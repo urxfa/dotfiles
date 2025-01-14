@@ -1,6 +1,8 @@
 require("config.lazy")
 require("config.telescope")
 require("config.treesitter")
+require("config.neotree")
+require("config.lualine")
 
 vim.cmd("set expandtab")
 vim.cmd("set tabstop=2")
